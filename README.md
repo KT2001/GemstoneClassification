@@ -9,7 +9,7 @@
 
 ## Project workflow
 
-* Downloading the data: The data is downloaded from ![Kaggle](https://www.kaggle.com/datasets/lsind18/gemstones-images)
+* Downloading the data: The data is downloaded from [Kaggle](https://www.kaggle.com/datasets/lsind18/gemstones-images)
     - Train Data:- https://github.com/KT2001/GemstoneClassification/tree/main/train
     - Test Data:- https://github.com/KT2001/GemstoneClassification/tree/main/test
 
@@ -29,7 +29,7 @@
 
 * Perform data analysis for this project.
 
-* Setup a pretrained model in this case the model being used is ![efficient_b0](https://arxiv.org/abs/1905.11946v5).
+* Setup a pretrained model in this case the model being used is [EfficientNet-B0](https://arxiv.org/abs/1905.11946v5).
 
 * Transforming the data.
 
